@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52372773608",
+    "firebase_url": "https://funic-26a4e.firebaseio.com",
+    "project_id": "funic-26a4e",
+    "storage_bucket": "funic-26a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52372773608:android:51a99cd20b054b8fe6875d",
+        "android_client_info": {
+          "package_name": "com.example.funic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52372773608-f9bhtqnra92k8bcq7njqvde8v4plkbun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.funic",
+            "certificate_hash": "cff43039d6e24defbc10f78e550714c128f7f780"
+          }
+        },
+        {
+          "client_id": "52372773608-befq4efpm1ipdpl0a30ilaqkqstenub2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStRIx-QmKWVIw_RbIxdMQAXF8RiB--E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52372773608-befq4efpm1ipdpl0a30ilaqkqstenub2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
